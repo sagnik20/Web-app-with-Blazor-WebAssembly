@@ -1,5 +1,9 @@
 # Web-app-with-Blazor-WebAssembly
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/sagnik20/Web-app-with-Blazor-WebAssembly/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sagnik20/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/sagnik20/Web-app-with-Blazor-WebAssembly)](https://github.com/sagnik20/Web-app-with-Blazor-WebAssembly/issues)
+[![GitHub forks](https://img.shields.io/github/forks/sagnik20/Web-app-with-Blazor-WebAssembly?style=social)](https://github.com/sagnik20/Web-app-with-Blazor-WebAssembly/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/Web-app-with-Blazor-WebAssembly?style=social)](https://github.com/sagnik20/Web-app-with-Blazor-WebAssembly/stargazers)
+
+
 This repository is based on [Microsoft Learn Path](https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/). Whatever I made is uploaded in this repository.
 
 While doing this, I learned how to set up your development environment and build my first WebAssembly app with Blazor, Visual Studio Code, and C#.
@@ -46,3 +50,4 @@ You can find something similar to this.
 
 ***
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
